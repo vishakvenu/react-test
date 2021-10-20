@@ -4,7 +4,7 @@ const App = () => {
   const state = useSelector(state => state.account.amount);
   return (
     <div>
-      <h1>Hi</h1>{state}
+      <h1>Hi vishak venu</h1>{state}
     </div>
   );
 };
